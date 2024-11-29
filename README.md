@@ -9,16 +9,6 @@ This project is part of the university course "Foundations of Computer Science".
 
 ---
 
-## Setup Instructions
-
-All the setup is handled directly in the notebook `main_notebook.ipynb`:
-1. **Install dependencies**: The first cell installs all required libraries from `requirements.txt`.
-2. **Download the dataset**: The second cell downloads and extracts the necessary data into the `data` folder.
-
-Simply open the notebook and follow the steps.
-
----
-
 ## Files Overview
 
 - `main_notebook.ipynb`: Contains the entire project, including setup, analysis, and results.
@@ -40,3 +30,10 @@ All other dependencies are automatically installed via `requirements.txt`.
    ```bash
    git clone https://github.com/your-username/foundations-of-cs-project.git
    cd foundations-of-cs-project
+2. Open `main_notebook.ipynb` in Jupyter Notebook or JupyterLab.
+
+3. Follow the steps in the notebook to:
+   - Install dependencies
+   - Download the dataset
+
+4. Continue with the analysis and results.
