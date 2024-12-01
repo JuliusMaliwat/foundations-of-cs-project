@@ -28,7 +28,7 @@ All other dependencies are automatically installed via `requirements.txt`.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/foundations-of-cs-project.git
+   git clone https://github.com/JuliusMaliwat/foundations-of-cs-project.git
    cd foundations-of-cs-project
 2. Open `main_notebook.ipynb` in Jupyter Notebook or JupyterLab.
 
